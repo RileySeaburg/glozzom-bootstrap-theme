@@ -1,4 +1,4 @@
-# Glozzom Bootstrap Theme
+# Glozzom Bootstrap 4 Theme
 
 ## Table of Contents
 

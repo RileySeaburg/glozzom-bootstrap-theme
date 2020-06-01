@@ -1,12 +1,25 @@
 {
-  "name": "bs4starter",
+  "name": "bootstrap-boiler",
   "version": "1.0.0",
-  "description": "Bootstrap 4 starter workflow",
-  "main": "index.js",
+  "description": "This is a basic bootstrap 4 boilerplate with font awesome Icons.",
+  "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp"
+    "test": "test"
   },
-  "author": "Brad Traversy",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RileySeaburg/bootstrap-boiler.git"
+  },
+  "keywords": [
+    "Riley",
+    "Seaburg",
+    "Bootstrap",
+    "4",
+    "Font",
+    "Awesome",
+    "Boilerplate"
+  ],
+  "author": "Riley Seaburg",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.1.1",
@@ -18,5 +31,9 @@
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/RileySeaburg/bootstrap-boiler/issues"
+  },
+  "homepage": "https://github.com/RileySeaburg/bootstrap-boiler#readme"
 }

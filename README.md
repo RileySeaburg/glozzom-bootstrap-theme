@@ -54,3 +54,7 @@ To deploy this project to a server, copy the src directory and deploy it.
 ## Acknowledgements
 
 This boilerplate set up was designed by: [Brad Traversey](https://github.com/bradtraversy/bs4starter)
+
+# glozzom-bootstrap-theme
+
+# glozzom-bootstrap-theme

@@ -26,7 +26,7 @@ This boilerplate uses packages from NPM which comes with NodeJS to install the l
 When NodeJS is installed clone the repo.
 
 ```
-git clone https://github.com/RileySeaburg/bootstrap-boiler.git
+git clone https://github.com/RileySeaburg/glozzom-bootstrap-theme.git
 ```
 
 Navigate to the new directory

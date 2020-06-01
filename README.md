@@ -19,9 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 This boilerplate uses packages from NPM which comes with NodeJS to install the libraries locally.
 
-```
 [Click Here](https://nodejs.org/en/download/) to install NodeJS
-```
 
 ### Installing
 
@@ -51,4 +49,4 @@ npm start
 
 ## Acknowledgements
 
-This boilerplate set up was designed by [Brad Traversey](https://github.com/bradtraversy/bs4starter)
+This boilerplate set up was designed by: [Brad Traversey](https://github.com/bradtraversy/bs4starter)

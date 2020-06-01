@@ -32,7 +32,7 @@ git clone https://github.com/RileySeaburg/glozzom-bootstrap-theme.git
 Navigate to the new directory
 
 ```
-cd bootstrap-boiler
+cd glozzom-bootstrap-theme
 ```
 
 Install Dependencies
